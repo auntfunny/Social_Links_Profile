@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+:root{
+    --acc1:hsl(0, 0%, 8%);
+    --acc2:hsl(0, 0%, 12%);
+    --acc3:hsl(0, 0%, 20%);
+    --acc4:hsl(0, 0%, 100%);
+    --acc5:hsl(75, 94%, 57%);
+}
+
