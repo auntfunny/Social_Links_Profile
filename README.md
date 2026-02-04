@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/auntfunny/Social_Links_Profile](https://github.com/auntfunny/Social_Links_Profilem)
-- Live Site URL: [https://auntfunny.github.io/Social_Links_Profile/](https://auntfunny.github.io/Social_Links_Profile/)
+- Live Site URL: [social-links-profile-theta-six.vercel.app](social-links-profile-theta-six.vercel.app)
 
 ## My process
 
